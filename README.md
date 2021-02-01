@@ -1,5 +1,5 @@
-### [English]()
-### [Français]()
+### [English](https://github.com/subversive-eu/subversive-eu/blob/main/README.md#hi-there-)
+### [Français](https://github.com/subversive-eu/subversive-eu/blob/main/README.md#bonjour-)
 
 
 ### Hi there 👋
