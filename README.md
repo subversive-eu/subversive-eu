@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 ### Bonjour 👋
 
-[Page principale]([Homepage](https://subversive-eu.github.io/)
+[Page principale](https://subversive-eu.github.io/)
