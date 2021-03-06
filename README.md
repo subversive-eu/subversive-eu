@@ -1,15 +1,10 @@
-### [English](https://github.com/subversive-eu/subversive-eu/blob/main/README.md#hi-there-)
-### [Français](https://github.com/subversive-eu/subversive-eu/blob/main/README.md#bonjour-)
-
-
-### Hi there 👋
+### Hey there 👋
 
 [Homepage](https://subversive-eu.github.io/)
-<!--
-**subversive-eu/subversive-eu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
